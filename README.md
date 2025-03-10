@@ -32,8 +32,8 @@ Actualmente estoy aprendiendo Java, SQL y desarrollo backend. Me interesa explor
 
 ### Contacto
 
-📌 **LinkedIn:** [Aida Manea](https://linkedin.com/in/tuperfil)  
-📧 **Email:** [aida@example.com](mailto:aida@example.com)  
+📌 **LinkedIn:** [Aida Andrea Manea] 
+📧 **Email:** [aidamanea0@gmail.com](mailto:aidamanea0@gmail.com)  
 
 ---  
 
