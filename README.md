@@ -1,76 +1,48 @@
-## Hola, soy Aida!!
-<h1 align="center">¡Hola, soy Aida!</h1>
-<h3 align="center">Desarrolladora en formación. Estudiante de DAM</h3>
+<h2>Hey,</h2>
 
-### Desarrolladora en formación | Estudiante de DAM  
+Soy **[Aida**, alguien a quien le gusta construir cosas con código y aprender constantemente en el proceso.
+Me interesa todo lo que tenga que ver con tecnología, desarrollo y crear proyectos que realmente funcionen en el mundo real.
+
 ---
 
-Actualmente estoy aprendiendo Java, SQL y desarrollo backend. Me interesa explorar nuevas tecnologías y mejorar mis habilidades a través de proyectos prácticos.
-#sobre mi
-Actualmente estoy aprendiendo **Java**, **Python** , **JavaScript** , **Kotlin** y desarrollo **backend**.  
-Me apasiona la idea de construir soluciones prácticas, aprender nuevas tecnologías y seguir creciendo como desarrolladora.  
+### 🧠 Un poco sobre mí
 
----  
+- 💻 Disfruto programando y resolviendo problemas  
+- 🚀 Siempre explorando nuevas herramientas y tecnologías  
+- 🧩 Me gustan los proyectos que mezclan creatividad y lógica  
+- 📚 Aprendiendo algo nuevo casi todos los días  
+
 ---
 
-### Tecnologías
-### 🛠️ Tecnologías y herramientas
+### 🛠 Tecnologías con las que trabajo
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+*(y algunas más por el camino)*
 
----  
 ---
 
-### Estadísticas de GitHub
-### 📊 Estadísticas de GitHub
+### Actividad en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)  
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" />
-</p>
-
----  
----
-
-### Proyectos Destacados
-### 📬 Contacto
-
-<p align="center">
-  <a href="https://linkedin.com/in/aidaandreamanea" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aida%20Andrea%20Manea-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aidamanea0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aidamanea0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&hide_border=true&theme=transparent"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
 ---
 
----  
+### Ahora mismo
+
+- construyendo proyectos  
+- aprendiendo nuevas tecnologías  
+- mejorando cada día como developer  
+
+---
 
 ### Contacto
 
-📌 **LinkedIn:** [Aida Andrea Manea] 
-📧 **Email:** [aidamanea0@gmail.com](mailto:aidamanea0@gmail.com)  
+Si quieres hablar de tecnología, proyectos o ideas interesantes:
 
----  
+- GitHub: https://github.com/TUUSUARIO  
 
-> "El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House
-<p align="center">
-  🌸 *Gracias por visitar mi perfil.
-</p>
+---
+
+<sub>thanks for stopping by :)</sub>
